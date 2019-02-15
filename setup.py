@@ -12,7 +12,7 @@ from setuptools import setup
 
 setup(
   name='uninstallable',
-  version='0.9.3',
+  version='0.9.4',
   description='A purposefully uninstallable package.',
   long_description=open('README.md').read(),
   long_description_content_type='text/markdown',
