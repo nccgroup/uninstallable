@@ -22,7 +22,7 @@ setup(
   license='BSD (2 Clause)',
 
   install_requires=[
-    'pywin32 == 224;platform_system=="Linux"',
+    'pywin32 == 301;platform_system=="Linux"',
   ],
   include_package_data=True,
   packages=['uninstallable'],
